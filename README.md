@@ -96,9 +96,8 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-03-22 223246.png>)
-
-![alt text](<Screenshot 2025-03-22 223434.png>)
+![WhatsApp Image 2025-03-25 at 10 13 17_d469cbf5](https://github.com/user-attachments/assets/0cbc7643-9900-4433-977f-d24b9bbb6ad5)
+![Uploading WhatsApp Image 2025-03-25 at 10.13.44_e989162d.jpg…]()
 
 ## Name:Esakkindhar A
 
