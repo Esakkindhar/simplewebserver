@@ -96,7 +96,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 
 ## OUTPUT:
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-08-29 063929.png
+<img width="1910" height="1078" alt="Screenshot 2025-08-29 063929" src="https://github.com/user-attachments/assets/a26efe30-8d94-43ea-a8b6-b4250fb7e2d2" />
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
